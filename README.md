@@ -1,5 +1,5 @@
 # Pruning LLMs by Weights and Activations
-Official PyTorch implementation of **Fast and Optimal Weight Update for Pruned Large Language Models** as presented in TODO.
+Official PyTorch implementation of **Fast and Optimal Weight Update for Pruned Large Language Models** as presented in (https://arxiv.org/abs/2401.02938).
 This repo is copy of [Wanda](https://github.com/locuslab/wanda) repository with our additions.
 
 --- 
