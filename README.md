@@ -1,5 +1,5 @@
-# Fast and Accurate Weight Update for Pruned Large Language Models
-Official PyTorch implementation of **Fast and Accurate Weight Update for Pruned Large Language Models** as presented in (https://arxiv.org/abs/2401.02938).
+# Fast and Effective Weight Update for Pruned Large Language Models
+Official PyTorch implementation of **Fast and Effective Weight Update for Pruned Large Language Models** as presented in (https://arxiv.org/abs/2401.02938).
 This repo is copy of [Wanda](https://github.com/locuslab/wanda) repository with our additions.
 
 --- 
